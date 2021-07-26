@@ -6,7 +6,7 @@ The purpose of the project is to analyze a green stock to determine wherther it 
 #Results: 
 ## Comparison between two sticks for the 2017 and 2018 years 
 All 2017 stocks except TERP havad a positive return. The best performing stock was DQ with 199.4% return.
-![2017 Stocks](https://github.com/amburu4159/VBA-Challenge/blob/main/Resources/2017%20Stocks.PNG)
+![2017 Stocks](https://github.com/amburu4159/VBA-Challenge/blob/main/Resources/2017%20Stocks.PNG) ![2018 Stocks](https://github.com/amburu4159/VBA-Challenge/blob/main/Resources/2018%20Stocks.PNG)
 
 ##
 Summary: 
